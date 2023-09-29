@@ -1,0 +1,152 @@
+{
+    "header": [
+        {
+            "icon": "fa-regular fa-clock",
+            "text": "Mon-Fri 09:00-17:00"
+        },
+        {
+            "icon": "fa-solid fa-phone",
+            "text": "090-080-0760"
+        }
+    ],
+    "nav": [
+        {
+            "nameLink": "home",
+            "path": "index.html",
+            "activeation": true,
+            "dataID": "Home"
+        },
+        {
+            "nameLink": "Our Services",
+            "path": "service.html",
+            "activeation": false,
+            "dataID": "service"
+        },
+        {
+            "nameLink": "About Us",
+            "path": "about.html",
+            "activeation": false,
+            "dataID": "AboutUs"
+        },
+        {
+            "nameLink": "Contact Us",
+            "path": "ContactUs.html",
+            "activeation": false,
+            "dataID": "contactUS"
+        },
+        {
+            "nameLink": "One Page",
+            "path": "OnePage.html",
+            "activeation": false
+        }
+    ],
+    "OurSolutions": {
+        "spanText": "Lorem ipsum dolor sit amet",
+        "HeadH2": "Our solutions for your",
+        "SpecialHeadH2": "business growth",
+        "descriptionTop": "Pellentesque ultrices at turpis in vestibulum. Aenean pretium elit nec congue elementum. Nulla luctuslaoreet porta. Maecenas at nisi tempus, porta metus vitae, faucibus augue.",
+        "descriptionBttom": "Fusce et venenatis ex. Quisque varius, velit quis dictum sagittis, odio velit molestie nunc, utposuere ante tortor ut neque.",
+        "btnRead": "Read More",
+        "counter": [
+            {
+                "numCount": 100,
+                "titleCount": "Work Hours"
+            },
+            {
+                "numCount": 591,
+                "titleCount": "Great Reviews"
+            },
+            {
+                "numCount": 267,
+                "titleCount": "Projects Done"
+            },
+            {
+                "numCount": 122,
+                "titleCount": "Awards Won"
+            }
+        ]
+    },
+    "about": {
+        "heading": "What they say",
+        "headingSpecial": "about us",
+        "spanBottom": "TESTIMONIALS FROM OUR GREATEST CLIENTS",
+        "items": [
+            {
+                "heading": "George Walker",
+                "span": "Chief Financial Analyst",
+                "description": "Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem sit amet quam. Pellentesque in sagittis lacus.",
+                "img": "http://placehold.it/60x60"
+            },
+            {
+                "heading": "George Walker",
+                "span": "Chief Financial Analyst",
+                "description": "Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem sit amet quam. Pellentesque in sagittis lacus.",
+                "img": "http://placehold.it/60x60"
+            },
+            {
+                "heading": "George Walker",
+                "span": "Chief Financial Analyst",
+                "description": "Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem sit amet quam. Pellentesque in sagittis lacus.",
+                "img": "http://placehold.it/60x60"
+            },
+            {
+                "heading": "George Walker",
+                "span": "Chief Financial Analyst",
+                "description": "Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem sit amet quam. Pellentesque in sagittis lacus.",
+                "img": "http://placehold.it/60x60"
+            },
+            {
+                "heading": "George Walker",
+                "span": "Chief Financial Analyst",
+                "description": "Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem sit amet quam. Pellentesque in sagittis lacus.",
+                "img": "http://placehold.it/60x60"
+            },
+            {
+                "heading": "George Walker",
+                "span": "Chief Financial Analyst",
+                "description": "Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem sit amet quam. Pellentesque in sagittis lacus.",
+                "img": "http://placehold.it/60x60"
+            },
+            {
+                "heading": "George Walker",
+                "span": "Chief Financial Analyst",
+                "description": "Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem sit amet quam. Pellentesque in sagittis lacus.",
+                "img": "http://placehold.it/60x60"
+            }
+        ]
+    },
+    "prandes": [
+        "img/client-01.png",
+        "img/client-01.png",
+        "img/client-01.png",
+        "img/client-01.png",
+        "img/client-01.png",
+        "img/client-01.png",
+        "img/client-01.png"
+    ],
+    "footer": {
+        "colOne": {
+            "heading": "Finance Business",
+            "description": "Vivamus tellus mi. Nulla ne cursus elit,vulputate. Sed ne cursus augue hasellus acinia sapien vitae.",
+            "icons": [
+                {
+                    "path": "#",
+                    "icon": "fa-brands fa-facebook"
+                },
+                {
+                    "path": "#",
+                    "icon": "fa-brands fa-twitter"
+                },
+                {
+                    "path": "#",
+                    "icon": "fa-brands fa-linkedin"
+                },
+                {
+                    "path": "#",
+                    "icon": "fa-brands fa-behance"
+                }
+            ]
+        },
+        "colTwo": {}
+    }
+}

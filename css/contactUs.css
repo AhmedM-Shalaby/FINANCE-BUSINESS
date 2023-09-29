@@ -1,0 +1,80 @@
+.about__Home {
+    background-image: url(../img/page-heading-bg.jpg);
+    text-align: center;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 230px 0px 150px 0px;
+    color: #fff;
+}
+
+.bread__Title {
+    text-transform: capitalize;
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin-bottom: 18px;
+}
+
+.bread__des {
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #fff;
+}
+
+.Contact {
+    margin: 140px 0;
+}
+
+.contact__data {
+    padding: 60px 30px;
+    background-color: #f7f7f7;
+    text-align: center;
+}
+
+.contact__data i {
+    color: #a4c639;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.contact__data h4 {
+    margin-bottom: 0.5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #000;
+}
+
+.contact__data p {
+    margin-bottom: 20px;
+    font-size: 14px;
+    color: #666666;
+    line-height: 30px;
+}
+
+.contact__data a {
+    font-weight: 600;
+    color: #a4c639;
+}
+
+.subscribe {
+    background-color: #f7f7f7;
+}
+
+.contact__form {
+    background-color: transparent;
+}
+
+textarea {
+    border: none;
+}
+
+.map {
+    overflow: hidden;
+}
+
+.map iframe {
+    width: 100%;
+}
